@@ -1,7 +1,7 @@
 <!HTML>
 
 [![oyoungsun's GitHub stats](https://github-readme-stats.vercel.app/api?username=oyoungsun&count_private=true&show_icons=true&theme=dracula)](https://github.com/oyoungsun)  
-[![oyoungsun's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=oyoungsun)](https://solved.ac/profile/plusmates)
+[![oyoungsun's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=plusmates)](https://solved.ac/profile/plusmates)
 
 - 중고나라 검색개발팀에서 인턴 근무중입니다. (24.03~)
 - 웹 백엔드 개발에 흥미를 느끼고 공부하는 중입니다.
